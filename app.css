@@ -2,5 +2,15 @@
     max-width: 1024px;
     margin: 0, auto;
     font-family: serif;
-    
+}
+
+.card-container {
+    max-width: 100%;
+    margin: 0, auto;
+}
+
+
+.row {
+    display: grid;
+    flex-direction: row;
 }

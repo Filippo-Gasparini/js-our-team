@@ -36,3 +36,9 @@ const teamMembers = [
     img: "img/female3.png"
   }
 ];
+
+
+
+// verifico se funziona correttamente
+
+console.log(teamMembers)
