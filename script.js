@@ -41,4 +41,16 @@ const teamMembers = [
 
 // verifico se funziona correttamente
 
-console.log(teamMembers)
+//console.log(teamMembers)
+
+
+// inserisco la prima card
+const userOne = getElementById('card_1')
+
+for( let i=0; i < teamMembers.length; i++){
+  userOne == teamMembers[0]
+} console.log(userOne)
+
+
+
+

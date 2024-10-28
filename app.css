@@ -12,5 +12,11 @@
 
 .row {
     display: grid;
-    flex-direction: row;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+}
+
+.row div {
+    background: green;
+    height: 100%;
 }
