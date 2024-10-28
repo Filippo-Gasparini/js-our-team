@@ -2,6 +2,7 @@
     max-width: 1024px;
     margin: 0, auto;
     font-family: serif;
+   
 }
 
 .card-container {
@@ -13,7 +14,7 @@
 .row {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 24px;
+    gap: 20px;
 }
 
 .row div {
